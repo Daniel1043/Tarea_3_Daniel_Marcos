@@ -18,3 +18,33 @@
     border-radius: 10px;
     box-shadow: 10px 5px 5px black;
 }
+
+.textoAutor{
+    font-weight: bold;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+.recuadroAutor{
+    background-color: white;
+    height: 650px;
+    margin-left: 300px;
+    margin-right: 300px;
+    border-radius: 10px;
+    box-shadow: 10px 5px 5px black;
+}
+
+.textoResumen{
+    font-weight: bold;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+.recuadro_datos{
+    background-color: white;
+    height: 800px;
+    margin-left: 300px;
+    margin-right: 300px;
+    border-radius: 10px;
+    box-shadow: 10px 5px 5px black;
+
+}
