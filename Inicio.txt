@@ -1,1 +1,0 @@
-Entre Marcon Leon y Daniel Lorenzo, vamos a realizar el siguiente proyecto de github, vamos a crear una web que muestre los detalles sobre un libro, en nuestro caso escogimos el principito, mostraremos una pagina inicial con los detalles de nuestro trabajo y con dos enlaces que nos dirijan al resumen del libro y a una descripción del autor.
