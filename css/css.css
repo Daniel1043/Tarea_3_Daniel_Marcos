@@ -6,18 +6,43 @@
     font-weight: bold;
 }
 
-.textoTitulo{
+.textoAutor{
     font-weight: bold;
     margin-left: 300px;
     margin-right: 300px;
 }
-.recuadroInicio{
+.recuadroAutor{
     background-color: white;
     height: 650px;
     margin-left: 300px;
     margin-right: 300px;
     border-radius: 10px;
     box-shadow: 10px 5px 5px black;
+}
+
+.textoAutor{
+
+
+.textoTitulo{
+
+    font-weight: bold;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+.recuadroAutor{
+
+.recuadroInicio{
+
+    background-color: white;
+    height: 650px;
+    margin-left: 300px;
+    margin-right: 300px;
+    border-radius: 10px;
+    box-shadow: 10px 5px 5px black;
+
+
+
 
 }
 
@@ -35,7 +60,10 @@
     border-radius: 10px;
     box-shadow: 10px 5px 5px black;
 
+
 }
+
+
 
 
 
