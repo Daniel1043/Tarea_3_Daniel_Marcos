@@ -1,0 +1,20 @@
+.fondoColor{
+    background-color: blanchedalmond;
+}
+.titulo{
+    font-size: 70px;
+    font-weight: bold;
+}
+.textoAutor{
+    font-weight: bold;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+.recuadroAutor{
+    background-color: white;
+    height: 650px;
+    margin-left: 300px;
+    margin-right: 300px;
+    border-radius: 10px;
+    box-shadow: 10px 5px 5px black;
+}
