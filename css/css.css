@@ -5,3 +5,16 @@
     font-size: 70px;
     font-weight: bold;
 }
+.textoTitulo{
+    font-weight: bold;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+.recuadroInicio{
+    background-color: white;
+    height: 650px;
+    margin-left: 300px;
+    margin-right: 300px;
+    border-radius: 10px;
+    box-shadow: 10px 5px 5px black;
+}
