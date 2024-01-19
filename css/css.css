@@ -5,3 +5,19 @@
     font-size: 70px;
     font-weight: bold;
 }
+
+.textoResumen{
+    font-weight: bold;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+.recuadro_datos{
+    background-color: white;
+    height: 800px;
+    margin-left: 300px;
+    margin-right: 300px;
+    border-radius: 10px;
+    box-shadow: 10px 5px 5px black;
+
+}
